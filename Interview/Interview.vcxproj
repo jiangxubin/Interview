@@ -150,6 +150,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="ByteDance.h" />
+    <ClInclude Include="ByteDance2.h" />
     <ClInclude Include="FuXiLab.h" />
     <ClInclude Include="IndeedTokyo.h" />
     <ClInclude Include="MeiTuan.h" />
@@ -160,6 +161,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ByteDance.cpp" />
+    <ClCompile Include="ByteDance2.cpp" />
     <ClCompile Include="FuXiLab.cpp" />
     <ClCompile Include="IndeedTokyo.cpp" />
     <ClCompile Include="Interview.cpp" />
