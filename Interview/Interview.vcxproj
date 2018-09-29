@@ -153,6 +153,7 @@
     <ClInclude Include="ByteDance2.h" />
     <ClInclude Include="FuXiLab.h" />
     <ClInclude Include="IndeedTokyo.h" />
+    <ClInclude Include="LeetCode.h" />
     <ClInclude Include="MeiTuan.h" />
     <ClInclude Include="ShangTang.h" />
     <ClInclude Include="stdafx.h" />
@@ -165,6 +166,7 @@
     <ClCompile Include="FuXiLab.cpp" />
     <ClCompile Include="IndeedTokyo.cpp" />
     <ClCompile Include="Interview.cpp" />
+    <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="MeiTuan.cpp" />
     <ClCompile Include="ShangTang.cpp" />
     <ClCompile Include="stdafx.cpp">
