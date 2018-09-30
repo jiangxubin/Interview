@@ -1,8 +1,4 @@
-﻿// Interview.cpp: 定义控制台应用程序的入口点。
-//
-
-#include "stdafx.h"
-#pragma once
+﻿#pragma once
 #include <iostream>
 #include <vector>
 
@@ -62,3 +58,11 @@ int main()
 	}
 	return 0;
 }
+
+Solution Referrence:
+1. http://www.cnblogs.com/lcw/p/3159414.html
+2. https://blog.csdn.net/lttree/article/details/21985679
+3. https://blog.csdn.net/dcf_xyz/article/details/48232391
+4. https://blog.csdn.net/linraise/article/details/12571025
+5. https://blog.csdn.net/artistkeepmonkey/article/details/79593605
+6. https://blog.csdn.net/zxy_snow/article/details/5952668

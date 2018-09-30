@@ -59,3 +59,9 @@ void LeetCode::auxiliary(Node *root, int &pre, int &res) {
 	pre = root->val;
 	auxiliary(root->right, pre, res);
 }
+
+int LeetCode::rob(Node * root)
+{
+
+	return 0;
+}

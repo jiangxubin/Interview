@@ -152,6 +152,7 @@
     <ClInclude Include="ByteDance.h" />
     <ClInclude Include="ByteDance2.h" />
     <ClInclude Include="FuXiLab.h" />
+    <ClInclude Include="Google.h" />
     <ClInclude Include="IndeedTokyo.h" />
     <ClInclude Include="LeetCode.h" />
     <ClInclude Include="MeiTuan.h" />
@@ -159,11 +160,13 @@
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="YiTu.h" />
+    <ClInclude Include="ZOJ.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ByteDance.cpp" />
     <ClCompile Include="ByteDance2.cpp" />
     <ClCompile Include="FuXiLab.cpp" />
+    <ClCompile Include="Google.cpp" />
     <ClCompile Include="IndeedTokyo.cpp" />
     <ClCompile Include="Interview.cpp" />
     <ClCompile Include="LeetCode.cpp" />
@@ -176,6 +179,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="YiTu.cpp" />
+    <ClCompile Include="ZOJ.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

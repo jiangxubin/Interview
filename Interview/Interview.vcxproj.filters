@@ -45,6 +45,12 @@
     <ClInclude Include="LeetCode.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ZOJ.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Google.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -75,6 +81,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="LeetCode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZOJ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Google.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

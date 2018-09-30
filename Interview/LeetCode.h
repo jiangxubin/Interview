@@ -25,5 +25,7 @@ public:
 	//https://leetcode.com/problems/minimum-distance-between-bst-nodes/discuss/128516/C++-Recursive-and-Iterative-Summary-for-Question-783-and-530.
 	//http://www.cnblogs.com/grandyang/p/6540165.html
 	//http://www.cnblogs.com/grandyang/p/6540165.html
+
+	int rob(Node* root);
 };
 
